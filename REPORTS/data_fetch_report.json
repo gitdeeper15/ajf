@@ -1,0 +1,22 @@
+{
+  "project": "AJF",
+  "database": "/storage/emulated/0/Download/GITDEEPER_LAB_ZERO_V6/DATA/lab_data.db",
+  "version": "V3-universal-dynamic",
+  "total_entities": 10,
+  "updated": 0,
+  "failed": 10,
+  "updated_entities": [],
+  "failed_entities": [
+    "Agent Accuracy",
+    "Tool Execution Reliability",
+    "Evidence Grounding",
+    "Judge Consistency",
+    "Judge Bias",
+    "Human-Judge Agreement",
+    "Calibration",
+    "Position Bias Test",
+    "Task Complexity",
+    "Reasoning Depth"
+  ],
+  "api_indicators_fetched": 27
+}

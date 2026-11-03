@@ -1,0 +1,263 @@
+{
+  "total_claims": 2,
+  "aligned_claims": 0,
+  "aligned_refs": [],
+  "unaligned_refs": [
+    {
+      "id": 1,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Farrukh Zaheer (2026). The Closed Intent Loop: Identity and Authorization in Autonomous Tool-using A..."
+    },
+    {
+      "id": 2,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Jooyoung Park, Jisuk Kim, Thomas Ulrich (2023). Analysis of Tasks in Autonomous Systems Using the EM..."
+    },
+    {
+      "id": 3,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "C. R. Russo, C. E. Lathan (2015). An Evaluation of the Consistency and Reliability of the Defense Au..."
+    },
+    {
+      "id": 4,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Laurence Cholvy, Laurent Perrussel, William Raynaut (2015). Towards Consistency-Based Reliability As..."
+    },
+    {
+      "id": 5,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "An\u0131l Sezgin (2025). Scenario-Driven Evaluation of Autonomous Agents: Integrating Large Language Mode..."
+    },
+    {
+      "id": 6,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Emilia Garcia, Adriana Giret, Vicente Botti (2010). An evaluation tool for multiagent development te..."
+    },
+    {
+      "id": 7,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Carlos Tampier, Alexander Tiderko, Frank E. Schneider (2022). Field Test Tool: automatic reporting a..."
+    },
+    {
+      "id": 8,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Wilkins Leong, Julie Porteous, John Thangarajah (2022). Automated Story Sifting Using Story Arcs. Cr..."
+    },
+    {
+      "id": 9,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Joshua Wilson, Charles MacArthur (2024). Exploring the Role of Automated Writing Evaluation as a For..."
+    },
+    {
+      "id": 10,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Quentin Elsaesser, Patricia Everaere, S\u00e9bastien Konieczny (2023). S&amp;F: Sources and Facts Reliabi..."
+    },
+    {
+      "id": 11,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Ron Katz, Sarit Kraus (2008). How automated agents treat humans and other automated agents in situat..."
+    },
+    {
+      "id": 12,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Jalal Mahmud, Allen Cypher, Eben Haber (2012). Design and industrial evaluation of a tool supporting..."
+    },
+    {
+      "id": 13,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Koen Hindriks, Dmytro Tykhonov (2008). Opponent modelling in automated multi-issue negotiation using..."
+    },
+    {
+      "id": 14,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Unknown (2008). A Portable Automated Assessment Tool for Sleep Apnea Using a Combined Holter-Oximete..."
+    },
+    {
+      "id": 15,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Arif Tuna Ozgelen, Elizabeth Sklar (2013). A task complexity assessment tool for single-operator mul..."
+    },
+    {
+      "id": 16,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Sridevi Ch, Mobina Shaik, Chalapathi Rao A (2025). An Automated Tool for Dynamic Field Reliability A..."
+    },
+    {
+      "id": 17,
+      "domain_score": 0.0,
+      "is_irrelevant": true,
+      "text": "Kevin B. Pratt (2004). An Application of Heterogeneous Agents to Fabricate Large, Realistic Corporat..."
+    },
+    {
+      "id": 18,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Robert G. Abbott, Kiran Lakkaraju, Christina Warrender (2014). Semi-automated construction of advers..."
+    },
+    {
+      "id": 19,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Haralambie Leahu, Michael Kaisers, Tim Baarslag (2019). Preference Learning in Automated Negotiation..."
+    },
+    {
+      "id": 20,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Elena Gorcea, Monika Wieder (2019). LED Projector Field Reliability Evaluation Tool Using Left-Censo..."
+    },
+    {
+      "id": 21,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Sangwon Seo, Bing Han, Vaibhav Unhelkar (2023). Automated Task-Time Interventions to Improve Teamwor..."
+    },
+    {
+      "id": 22,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Namyeong Lee, Jun Moon (2023). Transformer Actor-Critic with Regularization: Automated Stock Trading..."
+    },
+    {
+      "id": 23,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "\u0406\u0433\u043e\u0440 \u0406\u0432\u0430\u043d\u043e\u0432\u0438\u0447 \u0427\u0438\u0433\u0443\u0440 (2014). Reliability evaluation of automated monitoring of rock cutting tool cond..."
+    },
+    {
+      "id": 24,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Fedor Duzhin (2023). Learning in Teams: Peer Evaluation for Fair Assessment of Individual Contributi..."
+    },
+    {
+      "id": 25,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "P. Wallis, R. Ronnquist, D. Jarvis (None). The automated wingman - Using JACK intelligent agents for..."
+    },
+    {
+      "id": 26,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Shengbo Chang, Katsuhide Fujita (2023). A Scalable Opponent Model Using Bayesian Learning for Automa..."
+    },
+    {
+      "id": 27,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Martti Kakk, Piret Luik, Karel Paan (2026). Automated Assessment Tool for PostgreSQL. CrossRef. http..."
+    },
+    {
+      "id": 28,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Aruna P, Christy Sujatha D, Surya Prakash S (2022). An Automated Self Rating Questionnaire Assessmen..."
+    },
+    {
+      "id": 29,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "J. Rajan, V. Saravanan (2008). A Framework of an Automated Data Mining System Using Autonomous Intel..."
+    },
+    {
+      "id": 30,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Thibaut Vall\u00e9e, Gr\u00e9gory Bonnet (2015). Using KL Divergence for Credibility Assessment. CrossRef. htt..."
+    },
+    {
+      "id": 31,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Tuomas Sandholm (2000). Agents in Electronic Commerce: Component Technologies for Automated Negotiat..."
+    },
+    {
+      "id": 32,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Mickey Li, Arthur Richards, Mahesh Sooriyabandara (2021). Reliability-Aware Multi-UAV Coverage Path ..."
+    },
+    {
+      "id": 33,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Jo Laufenberg, Thomas Kropf, Oliver Bringmann (2020). Automated Graph-Guided Fault Injection Strateg..."
+    },
+    {
+      "id": 34,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Siqi Chen, Haitham Bou Ammar, Karl Tuyls (2013). Optimizing complex automated negotiation using spar..."
+    },
+    {
+      "id": 35,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Chi Keen Low, T. Y. Chen, Ralph R\u00f3nnquist (1999). Automated Test Case Generation for BDI Agents. Cro..."
+    },
+    {
+      "id": 36,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "D. Phillip Guertin, Yoganand Korgaonkar, I. Shea Burns (2015). Evaluation of Green Infrastructure De..."
+    },
+    {
+      "id": 37,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "David V. Pynadath, Milind Tambe (2003). An Automated Teamwork Infrastructure for Heterogeneous Softw..."
+    },
+    {
+      "id": 38,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Unknown (2017). PREDICTION OF SURFACE RUNOFF AND ASSESSMENT OF CHANGES USING DIFFERENT TEMPORAL LAND..."
+    },
+    {
+      "id": 39,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Sarit Kraus (2007). Automated negotiation in open environments. CrossRef. https://doi.org/10.1145/13..."
+    },
+    {
+      "id": 40,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Napat Jitpaisarnwattana, Nick Saville (2025). Autonomous learning and students\u2019 perceptions of autom..."
+    }
+  ],
+  "details": [
+    {
+      "claim": "Automated Task-Time Interventions to Improve Teamwork using Imitation Learning.",
+      "section": "Conclusion",
+      "citations": [],
+      "aligned_refs": [],
+      "aligned": false
+    },
+    {
+      "claim": "Autonomous learning and students\u2019 perceptions of automated writing evaluation as a tool to improve writing skills.",
+      "section": "Conclusion",
+      "citations": [],
+      "aligned_refs": [],
+      "aligned": false
+    }
+  ]
+}

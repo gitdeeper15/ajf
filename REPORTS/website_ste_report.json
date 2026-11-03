@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-11-03T07:05:25",
+  "project": "AJF",
+  "domain": "computer_science",
+  "ste_enabled": true,
+  "website_directory": "/storage/emulated/0/Download/GITDEEPER_LAB_ZERO_V6/PROJECTS/EXPERIMENTAL/AJF/PUBLICATION/Netlify",
+  "paper_title": "Ajf",
+  "keywords_count": 20,
+  "target_keywords": [
+    "consistency",
+    "samir",
+    "tool",
+    "bias",
+    "execution",
+    "abstract",
+    "affiliation",
+    "accuracy",
+    "introduction",
+    "beta"
+  ],
+  "sections_count": 6,
+  "keywords_found_in_website": [
+    "samir"
+  ],
+  "consistency_percentage": 10.0
+}

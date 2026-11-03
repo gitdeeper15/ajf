@@ -1,0 +1,24 @@
+# AJF - Project Summary
+
+**Domain:** computer_science
+**Subdiscipline:** N/A
+**Truth Score:** 85.0
+**Stage:** EXPERIMENTAL
+
+## Entities:
+- Agent Accuracy, Target Variable, 0.85
+- Tool Execution Reliability, Execution Factor, 0.78
+- Evidence Grounding, Quality Factor, 0.82
+- Judge Consistency, Reliability Factor, 0.75
+- Judge Bias, Risk Factor, 0.65
+- Human-Judge Agreement, Validation Factor, 0.88
+- Calibration, Reliability Factor, 0.72
+- Position Bias Test, Diagnostic Factor, 0.55
+- Task Complexity, Task Factor, 0.68
+- Reasoning Depth, Agent Factor, 0.7
+
+## Status:
+- Stage: EXPERIMENTAL
+- Quality Gate: PASSED
+
+Generated: 2026-11-03 07:05:32
