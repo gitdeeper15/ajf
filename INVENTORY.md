@@ -37,49 +37,47 @@
 
 ## Root Files
 
-| File | Size | Purpose |
-|------|------|---------|
-| `.gitignore` | — | Git ignore rules |
-| `AUTHORS.md` | — | Contributors |
-| `CHANGELOG.md` | — | Version history |
-| `CITATION.cff` | — | Citation metadata |
-| `CONTRIBUTING.md` | — | Contribution guidelines |
-| `INVENTORY.md` | this | Complete inventory |
-| `LICENSE` | — | MIT + CC-BY-4.0 |
-| `MANIFEST.in` | — | sdist manifest |
-| `OSF_REGISTRATION.md` | — | OSF registration record |
-| `README.md` | — | Main documentation |
-| `VERSION` | 5 B | 1.0.0 |
-| `pyproject.toml` | — | Python config |
-| `requirements.txt` | — | Python deps |
-| `setup.cfg` | — | Setup config |
-| `setup.py` | — | Package setup |
-| `upload_ajf.py` | — | PyPI uploader |
+| File | Purpose |
+|------|---------|
+| `.gitignore` | Git ignore rules |
+| `AUTHORS.md` | Contributors |
+| `CHANGELOG.md` | Version history |
+| `CITATION.cff` | Citation metadata |
+| `CONTRIBUTING.md` | Contribution guidelines |
+| `INVENTORY.md` | Complete inventory |
+| `LICENSE` | MIT + CC-BY-4.0 |
+| `MANIFEST.in` | sdist manifest |
+| `OSF_REGISTRATION.md` | OSF registration record |
+| `README.md` | Main documentation |
+| `VERSION` | 1.0.0 |
+| `pyproject.toml` | Python config |
+| `requirements.txt` | Python deps |
+| `setup.cfg` | Setup config |
+| `setup.py` | Package setup |
+| `upload_ajf.py` | PyPI uploader |
 
 ---
 
 ## Directories
 
-| Directory | Files | Purpose |
-|-----------|-------|---------|
-| `ajf/core/` | 4 | Task, Experiment, Configuration |
-| `ajf/agents/` | 4 | Direct, RAG, Tool-Using |
-| `ajf/judges/` | 3 | Zero-Shot, Evidence |
-| `ajf/evidence/` | 2 | Verifier, Trace Parser |
-| `ajf/reliability/` | 6 | Consistency, Bias, Calibration |
-| `ajf/human_eval/` | 2 | Annotation, Agreement |
-| `ajf/statistics/` | 2 | Analysis, Reporting |
-| `ajf/benchmark/` | 2 | Loader, Validator |
-| `DATA/` | 1 | Knowledge base |
-| `ANALYSIS/` | 2 | Analysis report + insights |
-| `PUBLICATION/` | 4 | Manuscript, figures, Netlify |
-| `REPORTS/` | 20 | Governance and audit |
-| `EXTERNAL_REVIEW/` | 3 | External review record |
-| `docs/` | 3 | Iteration log + audit |
-| `examples/` | 6 | Reproducible experiment scripts |
-| `tests/` | 10 | Test suite |
-
-**Total (active):** 82 files · 16 root files · 15 directories
+| Directory | Purpose |
+|-----------|---------|
+| `ajf/core/` | Task, Experiment, Configuration |
+| `ajf/agents/` | Direct, RAG, Tool-Using |
+| `ajf/judges/` | Zero-Shot, Evidence |
+| `ajf/evidence/` | Verifier, Trace Parser |
+| `ajf/reliability/` | Consistency, Bias, Calibration |
+| `ajf/human_eval/` | Annotation, Agreement |
+| `ajf/statistics/` | Analysis, Reporting |
+| `ajf/benchmark/` | Loader, Validator |
+| `DATA/` | Knowledge base |
+| `ANALYSIS/` | Analysis report + insights |
+| `PUBLICATION/` | Manuscript, figures, Netlify |
+| `REPORTS/` | Governance and audit |
+| `EXTERNAL_REVIEW/` | External review record |
+| `docs/` | Iteration log + audit |
+| `examples/` | Reproducible experiment scripts |
+| `tests/` | Test suite |
 
 ---
 
@@ -120,11 +118,11 @@
 
 | ID | Hypothesis | Status |
 |----|------------|--------|
-| H1 | Evidence Grounding: Agents with verifiable evidence score higher | ✅ Supported |
-| H2 | Position Bias: Judges exhibit order-related bias | ✅ Supported (Bias = 93) |
-| H3 | Judge Reliability: Evidence Judge more discriminative | ✅ Partially Supported |
-| H4 | Calibration: Confidence reflects accuracy | ✅ Supported (ECE = 0.0528) |
-| H5 | Robustness: Evidence Judge more consistent | ✅ Partially Supported |
+| H1 | Evidence Grounding: Agents with verifiable evidence score higher | Supported |
+| H2 | Position Bias: Judges exhibit order-related bias | Supported (Bias = 93) |
+| H3 | Judge Reliability: Evidence Judge more discriminative | Partially Supported |
+| H4 | Calibration: Confidence reflects accuracy | Supported (ECE = 0.0528) |
+| H5 | Robustness: Evidence Judge more consistent | Partially Supported |
 
 ---
 
@@ -148,16 +146,16 @@
 
 ### Python (runtime)
 
-- `requests ≥ 2.28.0`
-- `python-dotenv ≥ 1.0.0`
+- `requests >= 2.28.0`
+- `python-dotenv >= 1.0.0`
 
 ### Python (dev)
 
-- `pytest ≥ 7.0.0`
-- `pytest-cov ≥ 4.0.0`
-- `black ≥ 23.0.0`
-- `flake8 ≥ 6.0.0`
-- `isort ≥ 5.12.0`
+- `pytest >= 7.0.0`
+- `pytest-cov >= 4.0.0`
+- `black >= 23.0.0`
+- `flake8 >= 6.0.0`
+- `isort >= 5.12.0`
 - `build`
 - `twine`
 
@@ -174,8 +172,6 @@
 
 Project: AJF — Agent-Judge-Framework v1.0.0
 Status: Published · Experimental results available · All hypotheses supported
-Files: 82 active files (16 root + 66 in subdirectories)
-Directories: 15
 Hypotheses: 5 (H1–H5)
 Agent configs: 3 (Direct, RAG, Tool-Using)
 Judge configs: 2 (Zero-Shot, Evidence)
