@@ -46,3 +46,22 @@ identifiers:
     value: "https://github.com/gitdeeper15/ajf"
   - type: url
     value: "https://pypi.org/project/agent-judge-framework/"
+
+references:
+  - type: software
+    title: "Evidence Sufficiency & Grounding Protocol (v0.1)"
+    abstract: "A two-stage evaluation protocol investigating how pre-agent structural evidence defects interact with post-agent LLM-as-a-Judge grounding reliability in RAG systems. Stage 1 uses pgRAG-Inspector; Stage 2 uses AJF (this repository)."
+    authors:
+      - family-names: "Baladi"
+        given-names: "Samir"
+        orcid: "https://orcid.org/0009-0003-8903-0029"
+        affiliation: "Ronin Institute / Rite of Renaissance"
+      - family-names: "Talha"
+        given-names: "Muhammad"
+        affiliation: "pgRAG-Inspector"
+    version: "0.1.0"
+    date-released: "2026-11-15"
+    url: "https://github.com/gitdeeper15/evidence-sufficiency-grounding-protocol"
+    repository-code: "https://github.com/gitdeeper15/evidence-sufficiency-grounding-protocol"
+    license: MIT
+    notes: "Collaborative protocol in which AJF is used as the Stage 2 evaluation engine."
