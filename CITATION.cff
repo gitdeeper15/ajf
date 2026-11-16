@@ -62,7 +62,7 @@ references:
         affiliation: "pgRAG-Inspector"
     version: "0.1.0"
     date-released: "2026-11-15"
-    url: "https://github.com/gitdeeper15/evidence-sufficiency-grounding-protocol"
-    repository-code: "https://github.com/gitdeeper15/evidence-sufficiency-grounding-protocol"
+    url: "https://github.com/muhammadtalha072/evidence-sufficiency-grounding-protocol"
+    repository-code: "https://github.com/muhammadtalha072/evidence-sufficiency-grounding-protocol"
     license: MIT
     notes: "Collaborative protocol in which AJF is used as the Stage 2 evaluation engine."

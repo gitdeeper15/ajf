@@ -16,7 +16,7 @@
 [![Status](https://img.shields.io/badge/status-experimental--results-blue)]()
 [![Causal](https://img.shields.io/badge/results-preliminary-blue)]()
 [![License: MIT](https://img.shields.io/badge/license-MIT-27ae60)](LICENSE)
-[![Stage 2 Engine](https://img.shields.io/badge/Stage%202%20Engine-Evidence%20Protocol-4B0082)](https://github.com/gitdeeper15/evidence-sufficiency-grounding-protocol)
+[![Stage 2 Engine](https://img.shields.io/badge/Stage%202%20Engine-Evidence%20Protocol-4B0082)](https://github.com/muhammadtalha072/evidence-sufficiency-grounding-protocol)
 
 ---
 
@@ -242,7 +242,7 @@ In that protocol:
 
 ### Reference
 
-- **Protocol repository:** https://github.com/gitdeeper15/evidence-sufficiency-grounding-protocol
+- **Protocol repository:** https://github.com/muhammadtalha072/evidence-sufficiency-grounding-protocol
 - **Co-leads:** Samir Baladi (AJF), Muhammad Talha (pgRAG-Inspector)
 - **Status:** v0.1 (research design)
 - **Stage 1 engine:** pgRAG-Inspector (`pgrag-eval-lite`)
