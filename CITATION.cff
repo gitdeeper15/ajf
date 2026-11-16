@@ -17,10 +17,11 @@ abstract: |
   strategies: zero-shot evaluation and structured evidence-based
   evaluation.
 
-  The framework will produce an executable Python implementation, a
+  The framework produces an executable Python implementation, a
   reproducible benchmark, an evaluation dataset, and an empirical
-  research report. No experimental results are claimed in this
-  manuscript. All hypotheses remain subject to empirical investigation.
+  research report. Preliminary experimental results are reported for
+  hypotheses H1–H5; H1, H2, H4 are supported, H3 and H5 are partially
+  supported. All results remain subject to independent replication.
 keywords:
   - autonomous agents
   - LLM-as-a-judge
