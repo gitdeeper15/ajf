@@ -14,8 +14,9 @@
 [![Domain](https://img.shields.io/badge/domain-Computer%20Science%20%2F%20AI-2e8b57)]()
 [![Python](https://img.shields.io/badge/analysis-Python-3776ab?logo=python&logoColor=white)](https://python.org)
 [![Status](https://img.shields.io/badge/status-experimental--results-blue)]()
-[![Causal](https://img.shields.io/badge/results-none--yet-orange)]()
+[![Causal](https://img.shields.io/badge/results-preliminary-blue)]()
 [![License: MIT](https://img.shields.io/badge/license-MIT-27ae60)](LICENSE)
+[![Stage 2 Engine](https://img.shields.io/badge/Stage%202%20Engine-Evidence%20Protocol-4B0082)](https://github.com/gitdeeper15/evidence-sufficiency-grounding-protocol)
 
 ---
 
