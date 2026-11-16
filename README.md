@@ -216,7 +216,41 @@ Reviewers independently assess correctness, evidence validity, task completion, 
 
 ---
 
+
+## 🔗 Integration with Evidence-Sufficiency-Grounding-Protocol
+
+AJF is used as the **Stage 2 evaluation engine** in the collaborative
+protocol `evidence-sufficiency-grounding-protocol` (Baladi & Talha, 2026).
+
+In that protocol:
+
+- **Stage 1** (pgRAG-Inspector) detects pre-agent structural evidence defects
+  (`BROKEN_MARKDOWN_TABLE`, `MID_SENTENCE_CUTOFF`, `HIGH_TOKEN_OVERLAP`).
+- **Stage 2** (AJF) evaluates post-agent grounding and judge calibration
+  across three evidence regimes (A / B / C).
+
+### Interface
+
+| AJF component | Role in the protocol |
+|---|---|
+| Two judge models | Multi-judge false-positive grounding rate |
+| Structured Evidence strategy | Claim-evidence correspondence |
+| Bias detection | Position / verbosity / evidence bias |
+| Calibration (ECE) | Judge confidence calibration |
+| Human-judge agreement (ICC) | Reliability metric |
+
+### Reference
+
+- **Protocol repository:** https://github.com/gitdeeper15/evidence-sufficiency-grounding-protocol
+- **Co-leads:** Samir Baladi (AJF), Muhammad Talha (pgRAG-Inspector)
+- **Status:** v0.1 (research design)
+- **Stage 1 engine:** pgRAG-Inspector (`pgrag-eval-lite`)
+- **Stage 2 engine:** Agent-Judge-Framework (this repository)
+
+---
+
 ## 📁 Repository Structure
+
 
 ```
 
