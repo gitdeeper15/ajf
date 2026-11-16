@@ -45,7 +45,7 @@ The framework is built on four interconnected layers:
 | **Independent Judge** | Evaluates outputs using two LLM judge models under two strategies (Zero-Shot and Structured Evidence). |
 | **Reliability Assessment** | Measures human-judge agreement, consistency, bias (position, verbosity, evidence), and calibration. |
 
-> The analysis is a **research proposal and experimental design**. No experimental results are claimed in this manuscript. All hypotheses remain subject to empirical investigation.
+> The analysis reports **preliminary experimental results** for hypotheses H1–H5. H1, H2, H4 are supported; H3 and H5 are partially supported. All results remain subject to independent replication.
 
 ### Research Question
 
