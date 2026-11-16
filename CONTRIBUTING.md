@@ -6,7 +6,12 @@
 
 ## Status
 
-This project is a **research proposal and experimental design** (`v1.0.0`). The manuscript and the architecture are complete; the Python implementation and the benchmark are under active development.
+This project is at **v1.0.0** — preliminary experimental results are reported for hypotheses H1–H5 (H1, H2, H4 supported; H3, H5 partially supported). The Python implementation and the benchmark are functional. Independent replication is welcome.
+
+**Current priorities:**
+- Independent replication of H1–H5.
+- Benchmark expansion (60 tasks → 100+ tasks).
+- Cross-domain generalization (non-RAG, non-WDI).
 
 Contributions at this stage are welcome in:
 
@@ -86,8 +91,8 @@ Contact
 · ORCID: https://orcid.org/0009-0003-8903-0029
 · Zenodo DOI: https://doi.org/10.5281/zenodo.23907823
 · PyPI: https://pypi.org/project/agent-judge-framework/
-· Figshare: (Pending)
-· Website: (Pending)
+· Figshare: https://doi.org/10.6084/m9.figshare.34884414
+· Website: https://ajf-core.netlify.app
 
 ---
 
